@@ -11,7 +11,7 @@ There is a bug with mouse that occurs on Unity 2020.
 
 
 **Case 2:**
-1) Build the app with Unity 2019
+1) Build the app with Unity 2020
 2) Open the app, stretch the window to 16:9 or wider
 3) Try to click on buttons in the rightmost region of the screen
 
