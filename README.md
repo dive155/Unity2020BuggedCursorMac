@@ -7,7 +7,7 @@ There is a bug with mouse that occurs on Unity 2020.
 2) Open the app, stretch the window to 16:9 or wider
 3) Try to click on buttons in the rightmost region of the screen
 
-Observed result: The button under the pointer is clicked.
+**Observed result:** The button under the pointer is clicked.
 
 
 **Case 2:**
@@ -15,6 +15,6 @@ Observed result: The button under the pointer is clicked.
 2) Open the app, stretch the window to 16:9 or wider
 3) Try to click on buttons in the rightmost region of the screen
 
-Observed result: The button below and to the right of the pointer is clicked.
+**Observed result:** The button below and to the left of the pointer is clicked.
 
-Expected result: The button under the pointer is clicked.
+**Expected result:** The button under the pointer is clicked.
